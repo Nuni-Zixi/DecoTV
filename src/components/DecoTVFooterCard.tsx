@@ -79,15 +79,15 @@ const DecoTVFooterCard = () => {
             {/* Power by Katelya */}
             <div className='space-y-2 sm:space-y-3'>
               <p className='text-lg sm:text-xl lg:text-2xl font-medium text-white/90 drop-shadow-lg'>
-                Powered by
+                Fork by
               </p>
               <p className='text-2xl sm:text-3xl lg:text-4xl font-bold relative'>
                 <span className='bg-gradient-to-r from-yellow-300 via-orange-400 to-red-400 bg-clip-text text-transparent drop-shadow-lg'>
-                  Katelya
+                  Nvda_OwO
                 </span>
                 {/* 背景文字增强可读性 */}
                 <span className='absolute inset-0 text-white/20 blur-sm font-bold'>
-                  Katelya
+                  Nvda_OwO
                 </span>
               </p>
             </div>
